@@ -9,7 +9,7 @@
 
 - 🌱 No momento, estou aprendendo Python e Machine Learning.
 
-- 💬 Me pergunte sobre **SQL, NoSQL, Power BI, Excel, R e Python**
+- 💬 Me pergunte sobre: **SQL, NoSQL, Power BI, Excel, R e Python**
 
 - 📫 Você me acha **nhenrique.97@hotmail.com ou natan.bemvindo@gmail.com**
 
